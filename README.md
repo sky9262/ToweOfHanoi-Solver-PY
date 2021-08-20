@@ -11,4 +11,5 @@ The objective of the game is to shift the entire stack of disks from one rod to 
 <br />
 ## Solving with python:
 <img src="https://github.com/sky9262/ToweOfHanoi-Solver-PY/blob/main/Previews/TOH-preview.PNG" alt="TOH-preview"/><br /><br />
-<a href="https://replit.com/@sky9262/ToweOfHanoi-Solver-PY?v=1">Click here to run.</a>
+
+[![RUN](https://raw.githubusercontent.com/sky9262/sky9262/main/imp-img/Run-Button.PNG)](https://replit.com/@sky9262/ToweOfHanoi-Solver-PY?v=1)
